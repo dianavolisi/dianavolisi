@@ -27,7 +27,7 @@
 ## 🎓 Education
 **Bachelor of Science in Microprocessor Technology & Instrumentation**  
 University of Nairobi  
-*2021 - Present*  
+*2023 - Present*  
 Specializing in Microprocessor Systems and Embedded Programming
 
 ## 🔭 Current Projects
